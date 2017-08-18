@@ -16,27 +16,51 @@ Credits to [Exaskryz](https://autohotkey.com/boards/viewtopic.php?f=5&t=25218).
 ## Key Mapping 
 
 a → α (Alpha)
+
 b → β (Beta)
+
 c → γ (Gamma)
+
 d → δ (Delta)
+
 e → ε (Epislon)
+
 z → ζ (Zeta)
+
 h → η (Eta)
+
 j → θ (Theta)
+
 i → ι (Iota)
+
 k → κ (Kappa)
+
 l → λ (Lambda)
+
 m → μ (Mu)
+
 n → ν (Nu)
+
 q → ξ (Xi)
+
 o → ο (Omicron)
+
 p → π (Pi)
+
 r → ρ (Rho)
+
 s → σ (Sigma)
+
 ALT + s → ς (Final Sigma)
+
 t → τ (Tau)
+
 y → υ (Upsilon)
+
 f → φ (Phi)
+
 x → χ (Chi)
+
 u → ψ (Psi)
+
 w → ω (Omega)
